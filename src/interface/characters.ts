@@ -42,3 +42,4 @@ export interface Meta {
     totalPages: number;
     currentPage: number;
 }
+
